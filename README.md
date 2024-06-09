@@ -7,9 +7,9 @@ ___
 ## Sample Images
 
 ##### SAMPLE 1
-![SAMPLE1](https://github.com/PsykickSam/ExpandableRecyclerView_Java/tree/main/screenshots/sample_1.png)
+<img src="screenshots/sample_1.png" alt="SAMPLE_1" width="300"/>
 
 ##### SAMPLE 2
-![SAMPLE2](https://github.com/PsykickSam/ExpandableRecyclerView_Java/tree/main/screenshots/sample_2.png)
+<img src="screenshots/sample_2.png" alt="SAMPLE_2" width="300"/>
 
 Copyright Md@2024  
