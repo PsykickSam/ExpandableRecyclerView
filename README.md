@@ -3,6 +3,9 @@
 
 ___
 
+## Usage
+Current version is not added to the gradle dependencies, So copy the source and use in your project 🙂
+___
 
 ## Sample Images
 
@@ -12,4 +15,6 @@ ___
 ##### SAMPLE 2
 <img src="screenshots/sample_2.png" alt="SAMPLE_2" width="300"/>
 
-Copyright Md@2024  
+___
+
+Copyright © 2024, [Md Sadman](https://github.com/PsykickSam), Released under the [MIT](LICENSE) License.
