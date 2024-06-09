@@ -17,4 +17,12 @@ ___
 
 ___
 
+## Future Release
+
+* Add adapter interface class
+* Add as a gradle dependency
+* Custom design class
+* Create for Kotlin and Jitpack Compose
+___
+
 Copyright © 2024, [Md Sadman](https://github.com/PsykickSam), Released under the [MIT](LICENSE) License.
